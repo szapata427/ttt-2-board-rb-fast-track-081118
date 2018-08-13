@@ -1,1 +1,1 @@
-variable = "board"
+board = "board"
